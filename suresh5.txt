@@ -1,1 +1,7 @@
 first branch.first file.modified in 1st branch.
+
+this is the latest file
+again newly modified
+
+
+fresh file upadated in first branch.
